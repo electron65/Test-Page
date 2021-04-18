@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title> Test Page </title>
-<style type="text/css">
-	a {
- 	 text-decoration-line: none;
-	}
-</style>
 </head>
 
 <body>
