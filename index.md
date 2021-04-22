@@ -24,8 +24,21 @@
     </tr>
 </p>
 </table>
+
+  <table border="3" bgcolor="gray" width="45%" height="45%">
+    <tr>
+	<td><a href="https://learningenglish.voanews.com">VOA Learning</a></td>
+	<td><a href="https://www.nytimes.com">New York Times</a></td>
+	<td><a href="https://www.ap.org/en-gb">AP News</a></td>
+    </tr>
+    <tr>
+	<td><a href="https://www.bbc.com/news">BBC news</a></td>
+	<td><a href="https://edition.cnn.com/">CNN News</a></td>
+	<td><a href="https://www.usatoday.com/">USA Today</a></td>
+    </tr>
+</p>
+</table>
+
 </body>
-
-
 
 </html>
