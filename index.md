@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<p style="font-size:50px"><b>Welcome to the test page of cppcompiler.com</b>
+	<p style="font-size:50px"> <b>Welcome to the test page of cppcompiler.com </b> </p>
 <p>
   <table border="3" bgcolor="gray" width="45%" height="45%">
     <tr>
