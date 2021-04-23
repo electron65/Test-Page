@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<p style="font-size:50px"><b>Welcome to the test page of cppcompiler.com</b></p>
+<p style="font-size:50px"><b>Welcome to the test page of cppcompiler.com</b>
 <p>
   <table border="3" bgcolor="gray" width="45%" height="45%">
     <tr>
@@ -28,13 +28,23 @@
   <table border="3" bgcolor="gray" width="45%" height="45%">
     <tr>
 	<td><a href="https://learningenglish.voanews.com">VOA Learning</a></td>
-	<td><a href="https://www.nytimes.com">New York Times</a></td>
-	<td><a href="https://www.ap.org/en-gb">AP News</a></td>
+	<td><a href="https://www.nytimes.com/section/opinion">New York Times</a></td>
+	<td><a href="https://nypost.com/opinion/">New york Post</a></td>
     </tr>
     <tr>
 	<td><a href="https://www.bbc.com/news">BBC news</a></td>
-	<td><a href="https://edition.cnn.com/">CNN News</a></td>
-	<td><a href="https://www.usatoday.com/">USA Today</a></td>
+	<td><a href="https://edition.cnn.com/opinions">CNN News</a></td>
+	<td><a href="https://www.usatoday.com/opinion/">USA Today</a></td>
+    </tr>
+    <tr>
+	<td><a href="https://www.washingtonpost.com/opinions/?nid=top_nav_opinions">Washington Post</a></td>
+	<td><a href="https://www.wsj.com/news/opinion">Wall Steet Journal</a></td>
+	<td><a href="https://www.theguardian.com/uk/commentisfree">The Gurardian</a></td>
+    </tr>
+    <tr>
+	<td><a href="https://www.latimes.com/opinion">Los Angels Times</a></td>
+	<td><a href="https://www.forbes.com/?sh=79b597fa2254">Forbes</a></td>
+	<td><a href="https://www.ft.com/opinion">Financial Times</a></td>
     </tr>
 </p>
 </table>
