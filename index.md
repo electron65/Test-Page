@@ -46,6 +46,18 @@
 	<td><a href="https://www.forbes.com/?sh=79b597fa2254">Forbes</a></td>
 	<td><a href="https://www.ft.com/opinion">Financial Times</a></td>
     </tr>
+    <tr>
+	<td><a href="https://www.chosun.com/opinion/">조선일보 사설</a></td>
+	<td><a href="https://news.joins.com/find/list?sourcegrouptype=all&keyword=%EC%82%AC%EC%84%A4&scopetype=
+	Title&sourcecode=1&servicecode=20&display=%EC%82%AC%EC%84%A4">
+	조선일보사설</a></td>
+	<td><a href="https://www.donga.com/news/Opinion">동아일보 사설</a></td>
+    </tr>
+    <tr>
+	<td><a href="http://www.hani.co.kr/kisa/section-008001000/home01.html">한겨례 사설</a></td>
+	<td><a href="http://news.khan.co.kr/kh_news/khan_art_list.html?code=990101">경향신문 사설</a></td>
+	<td><a href="https://www.etnews.com/news/section.html?id1=11">전자신문 사설</a></td>
+    </tr>
 </p>
 </table>
 
